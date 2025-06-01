@@ -72,8 +72,8 @@
 <h2>📬 Как со мной связаться</h2>
 <p>Готов обсудить ваши проекты и идеи. Не стесняйтесь обращаться!</p>
 <ul>
-  <li>📧 <b>Email:</b> <a href="mailto:7187915364@e2t.link">
-  <li>💬 <b>Telegram:</b> <a href="t.me/XZLKT">
+  <li>📧 <b>Email:</b> <a href="mailto:7187915364@e2t.link">7187915364@e2t.link</a> </li>
+  <li>💬 <b>Telegram:</b> <a href="https://t.me/XZKLT">@XZKLT</a> </li>
 </ul>
 
 ---
